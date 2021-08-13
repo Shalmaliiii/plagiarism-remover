@@ -1,4 +1,4 @@
-[Plagiarism-remover.io](https://shalmaliiii.github.io/plagiarism-remover/)
+[https://shalmaliiii.github.io/plagiarism-remover/](https://shalmaliiii.github.io/plagiarism-remover/)
 
 ## How does this work? 
 Fundamentally, the way a plagiarism checker works is, it identifies content similarity matches. 
